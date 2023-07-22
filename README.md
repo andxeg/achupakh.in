@@ -1,4 +1,4 @@
-# babushk.in
+# achupakh.in
 
 My personal web page.
 I'm using [Hakyll](https://jaspervdj.be/hakyll/), a static site generator
